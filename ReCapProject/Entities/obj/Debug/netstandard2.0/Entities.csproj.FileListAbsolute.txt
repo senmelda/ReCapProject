@@ -1,0 +1,9 @@
+c:\users\melda\source\repos\ReCapProject\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+c:\users\melda\source\repos\ReCapProject\Entities\bin\Debug\netstandard2.0\Entities.dll
+c:\users\melda\source\repos\ReCapProject\Entities\bin\Debug\netstandard2.0\Entities.pdb
+c:\users\melda\source\repos\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.csprojAssemblyReference.cache
+c:\users\melda\source\repos\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.csproj.CoreCompileInputs.cache
+c:\users\melda\source\repos\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+c:\users\melda\source\repos\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+c:\users\melda\source\repos\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.dll
+c:\users\melda\source\repos\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.pdb

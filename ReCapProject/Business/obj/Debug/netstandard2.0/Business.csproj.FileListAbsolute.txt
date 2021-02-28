@@ -1,0 +1,14 @@
+c:\users\melda\source\repos\ReCapProject\Business\bin\Debug\netstandard2.0\Business.deps.json
+c:\users\melda\source\repos\ReCapProject\Business\bin\Debug\netstandard2.0\Business.dll
+c:\users\melda\source\repos\ReCapProject\Business\bin\Debug\netstandard2.0\Business.pdb
+c:\users\melda\source\repos\ReCapProject\Business\bin\Debug\netstandard2.0\DataAccess.dll
+c:\users\melda\source\repos\ReCapProject\Business\bin\Debug\netstandard2.0\Entities.dll
+c:\users\melda\source\repos\ReCapProject\Business\bin\Debug\netstandard2.0\DataAccess.pdb
+c:\users\melda\source\repos\ReCapProject\Business\bin\Debug\netstandard2.0\Entities.pdb
+c:\users\melda\source\repos\ReCapProject\Business\obj\Debug\netstandard2.0\Business.csprojAssemblyReference.cache
+c:\users\melda\source\repos\ReCapProject\Business\obj\Debug\netstandard2.0\Business.csproj.CoreCompileInputs.cache
+c:\users\melda\source\repos\ReCapProject\Business\obj\Debug\netstandard2.0\Business.AssemblyInfoInputs.cache
+c:\users\melda\source\repos\ReCapProject\Business\obj\Debug\netstandard2.0\Business.AssemblyInfo.cs
+c:\users\melda\source\repos\ReCapProject\Business\obj\Debug\netstandard2.0\Business.csproj.CopyComplete
+c:\users\melda\source\repos\ReCapProject\Business\obj\Debug\netstandard2.0\Business.dll
+c:\users\melda\source\repos\ReCapProject\Business\obj\Debug\netstandard2.0\Business.pdb

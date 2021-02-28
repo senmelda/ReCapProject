@@ -1,0 +1,12 @@
+c:\users\melda\source\repos\ReCapProject\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+c:\users\melda\source\repos\ReCapProject\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+c:\users\melda\source\repos\ReCapProject\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+c:\users\melda\source\repos\ReCapProject\DataAccess\bin\Debug\netstandard2.0\Entities.dll
+c:\users\melda\source\repos\ReCapProject\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
+c:\users\melda\source\repos\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+c:\users\melda\source\repos\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+c:\users\melda\source\repos\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+c:\users\melda\source\repos\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+c:\users\melda\source\repos\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+c:\users\melda\source\repos\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+c:\users\melda\source\repos\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
